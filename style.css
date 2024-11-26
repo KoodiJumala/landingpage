@@ -132,6 +132,7 @@ width: 100%;
     align-items: center;
     justify-content: center;
     flex: 0 1 auto;
+    border-radius: 10px;
 }
 
 img.logo {
